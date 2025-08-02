@@ -1,5 +1,3 @@
-<p align="center">
-
 I was born into a low-income family in Brazil. 
 We were poor — sometimes we didn't even have enough food. 
 I fell in love with computers at a very young age and would sneak onto my uncle's computer 
@@ -29,11 +27,16 @@ It's even harder to be an autistic Latina. Harder still to be on your own.
 But I will never allow anyone to call me a victim. I am healthy, smart, young, and capable of building any reality I dream of. 
 My real superpower is that I will never give up. And that is something no monster can take from me.
 
-<br> 
+<br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bf4e8704-b391-47b1-b8f4-45821df78168" width="80%" align="center" style="padding:1px;border:1px solid black;"/>
 </p>
 
 <br>
+<br>
+
+
+ps: And I'm completely in love with someone pretty perfect — and there's nothing I want more in this life than to marry him, have the smartest kids with him, and love and honor him until the end of my days.
+
 
