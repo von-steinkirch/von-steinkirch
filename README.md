@@ -10,7 +10,7 @@ I poured myself into my studies and earned a full scholarship for a PhD in Strin
 In the beginning, my spoken English was rough, but I enrolled in more classes than I needed and studied every moment I could. 
 I wrote books, contributed to open-source projects, and fell in love with software engineering all over again.
 
-By the end of my PhD, I turned down a postdoc offer at Los Alamos for a job as a Software Engineer at Yelp. 
+By the end of my PhD, I turned down a postdoc offer at the Los Alamos National Laboratory for a job as a Software Engineer at Yelp. 
 In less than a year, I was poached by Apple. After working as an engineer for a while, I realized I wanted to start 
 my own company — something my dad had always dreamed of but could never pursue due to the difficult economic situation 
 in Brazil.
@@ -24,8 +24,8 @@ I'm still walking this *rocky* road less traveled.
 
 It's really hard to be a woman in my world — it was hard decades ago, and it's still hard now. 
 It's even harder to be an autistic Latina. Harder still to be on your own. 
-But I will never allow anyone to call me a victim. I am healthy, smart, young, and capable of building any reality I dream of. 
-My real superpower is that I will never give up. And that is something no monster can take from me.
+But I will never allow anyone to call me a victim. I am healthy, smart, young, and capable of building <a href="https://gist.github.com/von-steinkirch/7607c9a481a49dadfd1dcdd9acad15c5">any reality I dream of</a>. 
+My real superpower is that I never give up. And that's something <a href="https://www.loyal.love/chapters/25_spring.html#2025_april_27">no monsters</a> can take from me.
 
 <br>
 
@@ -37,6 +37,6 @@ My real superpower is that I will never give up. And that is something no monste
 <br>
 
 
-ps: And I'm completely in love with someone pretty perfect — and there's nothing I want more in this life than to marry him, have the smartest kids with him, and love and honor him until the end of my days.
+ps: plus... I'm completely in love with someone pretty p⽊rfect — and there's nothing I want more in this life than to marry him, have the smartest kids with him, and love and honor him until the end of my days.
 
 
