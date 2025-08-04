@@ -37,6 +37,6 @@ My real superpower is that I never give up. And that's something <a href="https:
 <br>
 
 
-ps: plus... I'm completely in love with someone pretty p⽊rfect — and there's nothing I want more in this life than to marry him, have the smartest kids with him, and love and honor him until the end of my days.
+ps: plus... I'm completely in love with someone pretty p⽊rfect — and there's nothing I want more in this life than to marry him, have the smartest kids with him, and love and honor him until the end of my days (all while helping build <a href="https://gist.github.com/von-steinkirch/30b106b17b89110e345325af2c444f9f">a better future for humanity</a>).
 
 
