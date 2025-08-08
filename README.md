@@ -17,7 +17,7 @@ in Brazil.
 
 I tried several approaches, but it's incredibly hard to build anything without real leverage — and without crossing moral lines. 
 So I decided to join Shopify to learn more. Then DeFi Summer happened, and I got hooked on crypto again. 
-I left my safe and well-paid job to go all in, building in crypto, with countless ideas for new products and research. 
+I left my safe and well-paid job to go all in, [building in crypto](https://x.com/ethereum/status/1953546801614925978), with countless ideas for new products and research. 
 I dreamed of a decentralized, logical, and fair future — something I had been passionate about [for decades](https://acervodigital.ufpr.br/handle/1884/24232). 
 Since then, I've tried many things, faced many failures, and celebrated many successes. 
 I'm still walking this *rocky* road less traveled.
