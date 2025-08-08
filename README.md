@@ -15,7 +15,7 @@ In less than a year, I was poached by Apple. After working as an engineer for a 
 my own company — something my dad had always dreamed of but could never pursue due to the difficult economic situation 
 in Brazil.
 
-I tried several approaches, but it's incredibly hard to build anything without real leverage — and without crossing moral lines. 
+I tried several approaches, but it's incredibly hard to build anything without real [leverage](https://www.theblock.co/post/366016/megaeth-based-crypto-derivatives-trading-app-euphoria-seed-funding) — and without crossing moral lines. 
 So I decided to join Shopify to learn more. Then DeFi Summer happened, and I got hooked on crypto again. 
 I left my safe and well-paid job to go all in, [building in crypto](https://x.com/ethereum/status/1953546801614925978), with countless ideas for new products and research. 
 I dreamed of a decentralized, logical, and fair future — something I had been passionate about [for decades](https://acervodigital.ufpr.br/handle/1884/24232). 
