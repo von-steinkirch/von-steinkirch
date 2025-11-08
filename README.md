@@ -14,6 +14,6 @@
 
 <br>
 
-### ✨ fulfillment in your vocation ➕ lifelong true love ➕ integrity *above all* == real happiness >> money ✨
+### ✨ fulfillment in your vocation ➕ lifelong true love ➕ integrity *above all* == real happiness [>>](https://chatgpt.com/s/t_690eb176f8f08191954baa2bc43fc0c5) money ✨
 
 <br>
